@@ -8,3 +8,5 @@ Gitの練習をしていきます。
 ・Git add
 ・Git commit
 ・Git rm の追加 
+
+・Git status
