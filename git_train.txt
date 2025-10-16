@@ -10,3 +10,4 @@ Gitの練習をしていきます。
 ・Git rm の追加 
 
 ・Git status
+・Git diff
