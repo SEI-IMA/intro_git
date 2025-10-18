@@ -1,13 +1,9 @@
 Gitの練習をしていきます。
-
-
-
 基本的な使いかたを学習します
-
-
 ・Git add
 ・Git commit
 ・Git rm の追加 
-
 ・Git status
 ・Git diff
+・Gitの復習のための変更
+
